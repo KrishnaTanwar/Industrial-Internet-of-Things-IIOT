@@ -1,2 +1,2 @@
-# IIOT
-This repository is basically about Industrial Internet of Things (IIOT).
+# IIOT by Krishna
+In this repository, you will find Logics of practical problems using AI ML & IOT.
